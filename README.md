@@ -5,7 +5,7 @@ In response to the growing $9 billion smart thermostat market, this project aime
 
 Notably, this initiative facilitated an in-depth analysis of diverse hardware architectures—evaluating options from TI, Microchip, and Freescale—focusing on pivotal business requirements: peripheral support, Wi-Fi connectivity for cloud integration, and ample Flash and RAM provisions. In parallel, through a complementary project centered around utilizing a single byte in a serial buffer to control LED functionality via terminal inputs ('on' or 'off'), the project team refined expertise in code structuring, showcasing adaptability and meticulousness in creating readable and maintainable code. This dual-pronged project fostered a profound understanding of embedded systems, offering a springboard for future endeavors in this domain.
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VI...)](https://www.youtube.com/watch?v=Z_APb-jGISM)
+[![IMAGE ALT TEXT HERE](https://i9.ytimg.com/vi_webp/Z_APb-jGISM/mq2.webp?sqp=CMzJ8KsG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgSihAMA8=&rs=AOn4CLA6-NFMEEy3VBPprkPNswxUjzQ9rQ)](https://www.youtube.com/watch?v=Z_APb-jGISM)
 
 
 ### Prototype Development:
